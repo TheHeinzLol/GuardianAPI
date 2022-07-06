@@ -1,0 +1,512 @@
+,Date,Content,Section
+0,2010-12-23,Microapps and the Art of Widget Maintenance,info
+1,2010-12-22,The big freeze: notes on Release 103,info
+2,2010-12-16,Switching to Google-hosted jQuery,info
+3,2010-12-14,Exploiting open and linked data at Online Information 2010,info
+4,2010-12-13,New 'British soldiers killed in Afghanistan' interactive with Javascript,info
+5,2010-12-09,Six things I've learned about web development working at the Guardian,info
+6,2010-12-08,The everlasting permalink,info
+7,2010-12-03,Notes on Release 102,info
+8,2010-12-02,Welcome to the Guardian Developer Blog,info
+9,2010-11-08,The story behind the redesign of Guardian Jobs,info
+10,2010-11-02,From Publisher to Platform: 14 ways to get benefits from social media,info
+11,2010-10-18,Adding Linked Data to the Open Platform,info
+12,2010-10-18,Adding 'references' to the API,info
+13,2010-10-18,A guide to querying 'references' in the Content API,info
+14,2010-09-22,Announcing Scale Camp 2010,info
+15,2010-09-10,Notes from dConstruct 2010,info
+16,2010-07-07,Terms of use for embedding Guardian videos on third party sites,info
+17,2010-06-17,World Cup instant Twitter replay: how we did it,info
+18,2010-04-30,"Calculating the swing, marginality and targets for constituencies",info
+19,2010-04-21,How we built the UK national carbon calculator,info
+20,2011-12-23,US Debt: The American economy in crisis ebook,info
+21,2011-12-21,Civil Unrest: Rioting in our cities ebook,info
+22,2011-12-21,Jazz: From New Orleans to the new generation ebook,info
+23,2011-12-15,"December's ""Carnival of journalism"" round-up",info
+24,2011-12-15,Reading the Riots: Investigating England's summer of disorder ebook,info
+25,2011-12-08,Behind the rumours: how we built our Twitter riots interactive,info
+26,2011-12-07,Music Hack Day London 2011: a developer's view,info
+27,2011-11-30,Guardian Spotify app: FAQ,info
+28,2011-11-30,Guardian launches music reviews app for Spotify,info
+29,2011-11-29,Goodbye to the Guardian's TagBot,info
+30,2011-11-26,Terms and conditions,info
+31,2011-11-24,Join in December's Carnival of journalism,info
+32,2011-11-15,Business:designed,info
+33,2011-11-15,My Favourite Album: Best of the Guardian blog ebook,info
+34,2011-11-15,Who's Who? The Resurrection of the Doctor ebook,info
+35,2011-11-11,Live blogging research,info
+36,2011-11-04,Guardian Travel goes for a Scroll,info
+37,2011-11-02,Guardian Eyewitness iPad app updated,info
+38,2011-10-27,n0tice.com,info
+39,2011-10-26,Guardian Travel Search,info
+40,2011-10-24,Where in the world?,info
+41,2011-10-24,Guardian series reader,info
+42,2011-10-21,The Long Good Read,info
+43,2011-10-21,About Guardian beta,info
+44,2011-10-21,The Guardian big screen experience,info
+45,2011-10-14,How to write fiction: A Guardian masterclass ebook,info
+46,2011-10-06,Terms and conditions for submitting reader content to our print publications,info
+47,2011-10-03,Guardian News & Media Freelance Charter: revision history,info
+48,2011-09-22,The Guardian Facebook app terms of service,info
+49,2011-09-22,Guardian Facebook app: FAQ,info
+50,2011-09-16,Guardian Android app now lets you save to SD card - an explainer,info
+51,2011-09-11,9/11: Ten Years On ebook,info
+52,2011-09-02,UX drop-in and EuroIA Predux events at the Guardian,info
+53,2011-08-02,Introducing the Guardian's new music album pages,info
+54,2011-07-27,Agit – a Git client for Android,info
+55,2011-07-11,Developer drop-ins continue through the summer,info
+56,2011-07-06,From 'Social by design' to 'Social workers of technology' - UPA 2011,info
+57,2011-07-04,Notes on Release 115,info
+58,2011-06-23,Developing the new artist pages,info
+59,2011-06-21,Hactivate: A participant's perspective,info
+60,2011-06-13,Notes on Releases 113 & 114,info
+61,2011-06-03,Drop-ins: Phase II,info
+62,2011-06-01,(H)activate 2011: come and join us,info
+63,2011-05-31,Knight-Mozilla News Innovation Jam,info
+64,2011-05-24,"So long, IE6, it's the end of testing times",info
+65,2011-05-18,Developer drop-ins: half time report,info
+66,2011-05-16,Knight-Mozilla News Innovation Jam,info
+67,2011-05-13,Notes on Release 112,info
+68,2011-05-10,The experience of a developer drop-in,info
+69,2011-05-05,Notes on Release 111,info
+70,2011-04-26,Developer drop-in events,info
+71,2011-04-18,Scala at guardian.co.uk,info
+72,2011-04-13,Cennydd Bowles predicts a rocky road ahead for UX at the Denver IA Summit,info
+73,2011-04-11,Introducing developer drop-ins,info
+74,2011-04-08,Notes on Release 110,info
+75,2011-04-05,National Hack the Government Day 2011,info
+76,2011-03-31,Hacks and Hackers: ScraperWiki day,info
+77,2011-03-24,Notes on Release 109,info
+78,2011-03-15,Getting noticed in the iTunes App Store,info
+79,2011-03-14,The SXSW Tumblr tracker,info
+80,2011-03-11,SXSW 2011: How we made our interactive band tracker,info
+81,2011-03-11,Notes on Release 108,info
+82,2011-03-09,Questions in search of an answer,info
+83,2011-03-04,Notes on Release 107,info
+84,2011-03-03,Why we built our automated SXSW listings pages - Part two,info
+85,2011-03-01,Why we built our automated SXSW listings pages,info
+86,2011-02-28,Guardian Unlimited Talkboard closure,info
+87,2011-02-25,Things I wish I'd known before the Guardian Hacks SXSW event,info
+88,2011-02-18,Notes on Release 106,info
+89,2011-02-17,Technology bursary 'opened my eyes',info
+90,2011-02-17,How we created our SXSW music listings pages,info
+91,2011-02-14,"Site performance, every little helps",info
+92,2011-02-02,Tags are magic! - Part 4,info
+93,2011-01-28,Notes for Release 105,info
+94,2011-01-26,Tags are magic! - Part 3,info
+95,2011-01-24,From Publisher to Platform: 14 ways to get benefits from social media – video,info
+96,2011-01-20,Announcing Guardian Hacks SXSW,info
+97,2011-01-19,Tags are magic! - Part 2,info
+98,2011-01-17,Notes on Release 104,info
+99,2011-01-12,Tags are magic! - Part 1,info
+100,2011-01-05,Talking about The Guardian and 'Linked Open Data' at news:rewired,info
+101,2012-12-20,The best long reads of 2012,info
+102,2012-12-11,Fragmented world: what two years of traffic data teaches you about mobile,info
+103,2012-12-10,How the Guardian Soulmates development team took a lesson from rugby league,info
+104,2012-12-10,The end of long reads of the week,info
+105,2012-12-06,Real-time QA: staying confident with code,info
+106,2012-11-23,"Long reads of the week: Psy, Nate Silver, Twilight, Louis Walsh and Kickstarter",info
+107,2012-11-16,"Long reads of the week: Valerie Trierweiler, billionaires' basements, Jake Gyllenhaal and surgery for pets",info
+108,2012-11-09,The Guardian and the Knight-Mozilla OpenNews fellowship,info
+109,2012-11-09,"Long reads of the week: Jessica Ennis, Bradley Wiggins, Raspberry Pi and the world's biggest sperm bank",info
+110,2012-11-02,Functional Programming Principles in Scala: the final push,info
+111,2012-11-02,"Long reads of the week: David Attenborough, Bryan Cranston and the rise of the Greek far right",info
+112,2012-10-26,"Long reads of the week: Judi Dench, Orlando Cruz, Taylor Swift, Mario Testino and food scarcity",info
+113,2012-10-19,"Long reads of the week: Javier Bardem, Tim Burton, David Cameron, BB King and online passwords",info
+114,2012-10-18,Responsive design at the Guardian: an introduction,info
+115,2012-10-18,A first look at some changes to commenting,info
+116,2012-10-12,"In case you missed it ... Jarvis Cocker, nail art, secret courts, Michelangelo Antonioni and the foodie backlash",info
+117,2012-10-05,Functional Programming Principles in Scala: three weeks in,info
+118,2012-10-05,"In case you missed it ... Syria's civil war, Tyler Hamilton, Lena Dunham, Oliver Stone and Gwen Stefani",info
+119,2012-10-04,Winning the metrics battle,info
+120,2012-10-02,Facebook's London Hack 2012: hacking Guardian commenting,info
+121,2012-09-28,"In case you missed it ... Hillsborough, Jools Holland, Elizabeth McGovern and the art of unfriending",info
+122,2012-09-27,Terms and conditions,info
+123,2012-09-26,Our new video pages – an inside look at some of the design details,info
+124,2012-09-21,Functional Programming Principles in Scala: First Impressions,info
+125,2012-09-21,"In case you missed it ... Kim Kardashian, vibrators, Doctor Who, Anonymous and Woody Allen",info
+126,2012-09-19,Terms and conditions,info
+127,2012-09-14,"In case you missed it ... Sock Puppetry, Wayne Rooney, Civil Rights and How to commit blasphemy in Pakistan",info
+128,2012-09-07,"In case you missed it ... Naomi Wolf, the xx, Stevie Wonder, Syria's point of no return and the trouble with atheists",info
+129,2012-09-06,Five features of Japanese news sites,info
+130,2012-08-31,"In case you missed it ... Mitt Romney's Mormonism, David Bowie's acting, electric cars and Shirley MacLaine",info
+131,2012-08-28,HTML5 and native apps: the hybrid approach,info
+132,2012-08-24,In case you missed it ... Guardian and Observer long reads of the week,info
+133,2012-08-23,Software development: What I know now that I wish I'd known before,info
+134,2012-08-17,In case you missed it ... Guardian and Observer long reads of the week,info
+135,2012-08-15,Reimagining the timeline: behind our Second Screen web app,info
+136,2012-08-10,"Testing, testing: the Guardian attends a QA community meet-up",info
+137,2012-08-10,In case you missed it ... Guardian and Observer long reads of the week,info
+138,2012-08-03,In case you missed it ... Guardian and Observer long reads of the week,info
+139,2012-07-27,In case you missed it ... top Guardian and Observer long reads of the week,info
+140,2012-07-25,Terms and conditions,info
+141,2012-07-20,Discovery week: the presentations,info
+142,2012-07-18,Discovery Week Diary: Day Two,info
+143,2012-07-16,Discovery Week Diary: Day One,info
+144,2012-07-13,In case you missed it ... Guardian and Observer long reads of the week,info
+145,2012-06-28,The Guardian and Observer Kindle edition now features weather forecasts and cartoons,info
+146,2012-06-26,Terms and conditions for callouts from GNM social media presences,info
+147,2012-06-22,In case you missed it ... Guardian and Observer long reads of the week,info
+148,2012-06-15,In case you missed it ... Guardian and Observer long reads of the week,info
+149,2012-06-08,In case you missed it ... top Guardian and Observer long reads of the week,info
+150,2012-06-01,In case you missed it ... top Guardian and Observer long reads of the week,info
+151,2012-05-25,In case you missed it ... top Guardian and Observer long reads of the week,info
+152,2012-05-18,In case you missed it ... Guardian and Observer long reads of the week,info
+153,2012-05-17,Removed: article,info
+154,2012-05-11,In case you missed it ... top Guardian and Observer long reads of the week,info
+155,2012-05-08,Guardian New York panel: full discussion – video,info
+156,2012-05-05,Guardian panel in New York: commercial pressures v journalistic standards – video,info
+157,2012-05-04,In case you missed it ... Guardian and Observer long reads of the week,info
+158,2012-05-03,'Post-truth politics' and the media's role - video,info
+159,2012-05-03,Video: Post truth politics debate - death panels,info
+160,2012-05-03,Video: Post truth politics debate - truth and lies,info
+161,2012-05-03,Video: Post truth politics debate,info
+162,2012-04-27,In case you missed it ... top Guardian and Observer long reads of the week,info
+163,2012-04-20,Announcing the Miso Project,info
+164,2012-04-20,In case you missed it ... Guardian and Observer long reads of the week,info
+165,2012-04-12,Guardian Guide to Fracking - version 2,info
+166,2012-04-12,Guardian Guide to Fracking - version 1,info
+167,2012-04-03,Design and usability changes to the Guardian iPad edition,info
+168,2012-03-23,"Computer, meet your maker",info
+169,2012-03-21,The Guardian Google TV app in beta,info
+170,2012-03-21,Developing the Google TV app in Beta,info
+171,2012-03-20,Introducing n0tice.com,info
+172,2012-03-16,The confusing language around programming languages,info
+173,2012-03-08,Terms and conditions for content network supply agreements,info
+174,2012-03-08,Terms and conditions for content network sharing agreements,info
+175,2012-03-06,Terms and conditions for fixed freelance personnel,info
+176,2012-03-06,"Mumbai city guide, on web, mobile and tablet",info
+177,2012-02-27,Guardian Beta terms and conditions,info
+178,2012-02-16,Calling passionate software developers,info
+179,2012-02-03,Guardian Hack Day: The presentations,info
+180,2012-02-01,Follow Guardian Music on This Is My Jam,info
+181,2012-02-01,Beta adventures in Tokyo,info
+182,2012-01-31,Help hack day developers make the Guardian's cycling coverage better | Peter Walker,info
+183,2012-01-04,Facebook: The Rise and Rise of a social media giant ebook,info
+184,2012-01-03,Mark Cavendish: On top of the world ebook,info
+185,2013-12-09,Guardian Graduate Scheme,info
+186,2013-11-18,Commenting now available on our mobile website,info
+187,2013-10-16,The Guardian's digital development team speaks,info
+188,2013-10-04,Alpha testing and evolution of our mobile site,info
+189,2013-10-03,Teachers and Students at PyconUK,info
+190,2013-09-18,Terms and Conditions for Use of GNM Media as Props in Motion Pictures,info
+191,2013-09-12,Moving mountains: managing a systems hardware refresh,info
+192,2013-08-15,Young Rewired State 2013: mentoring the tech stars of tomorrow,info
+193,2013-08-12,How to subscribe to Guardian Australia,info
+194,2013-08-02,Terms and conditions for Soulmates event,info
+195,2013-07-03,"The Plucky Contender: on failing hard, fast and briefly",info
+196,2013-06-18,The Guardian development flow,info
+197,2013-06-07,10 things we learned during the making of Firestorm,info
+198,2013-05-26,Guardian Australia: FAQ,info
+199,2013-05-26,Contact Guardian Australia,info
+200,2013-04-26,"How the Guardian built a solid, scalable foundation for digital-first journalism",info
+201,2013-04-23,State of the Browser 2013: conference writeup,info
+202,2013-04-16,GuardianWitness: how to make your contribution easier to find,info
+203,2013-04-11,The Guardian attends Hack the Government 2013 with Rewired State,info
+204,2013-03-27,"The Trials, Tribulations and Triumph of PyCon 2013",info
+205,2013-03-22,Contact the Guardian US,info
+206,2013-03-12,A day at the Raspberry Jamboree: microcomputing and hardware hacking,info
+207,2013-03-01,Notes from Edge Conference 2013,info
+208,2013-02-27,Introducing Google+ sign-in,info
+209,2013-02-19,Guardian Hack Day February 2013 — Live Blog Day 2,info
+210,2013-02-18,Guardian Hack Day February 2013 – Live Blog Day 1 ,info
+211,2013-02-01,Sending better emails,info
+212,2013-01-18,Tools of the trade: the browser-based tools the Guardian's digital team uses for coding,info
+213,2014-12-29,What is the Guardian's tech stack?,info
+214,2014-12-29,Problems with Selection and Range objects,info
+215,2014-12-11,Functional Android,info
+216,2014-12-10,Taming timeouts with a Promise,info
+217,2014-12-08,Technical requirements for submitting video contributions to GMN,info
+218,2014-12-08,Terms and conditions for video revenue share arrangements,info
+219,2014-11-28,Developing in the open,info
+220,2014-11-17,The perils of excessive JavaScript timeouts,info
+221,2014-11-10,On the ambitious but bumpy road to AngularJS 2.0,info
+222,2014-10-31,MozFest 2014: creative chaos – in the best possible way,info
+223,2014-10-22,Digital storytelling: an interactive timelines project,info
+224,2014-10-21,Immutable data structures in Python,info
+225,2014-10-14,Websockets and AngularJS,info
+226,2014-09-30,#dareconf 2014 review: people skills for digital workers,info
+227,2014-09-29,Pitfalls and prizes of ensuring quality mobile apps,info
+228,2014-09-16,"Shipping from GitHub to Maven Central and S3, using Travis-CI",info
+229,2014-09-12,How to make a complaint about Guardian or Observer content,info
+230,2014-09-09,Eyewitness is moving from a stand-alone app to being integrated into our main offering,info
+231,2014-09-09,Parsing JSON with Scheme,info
+232,2014-09-08,How to stay safe on the web - infographic,info
+233,2014-08-28,What does it mean to be a senior developer?,info
+234,2014-08-20,How to buy back issues of the Guardian and Observer,info
+235,2014-08-05,Case study: Guardian Soulmates redesign,info
+236,2014-07-22,Introducing the new Guardian Developers Site,info
+237,2014-07-18,Guardian reader events - Terms and conditions,info
+238,2014-07-18,Hacking Journalism at the MIT Media Lab,info
+239,2014-07-17,Introducing the Content API v2,info
+240,2014-07-15,Guardian Hack Day July 2014 — live blog,info
+241,2014-07-11,Navigating the Guardian,info
+242,2014-06-24,Creating Glassware for the Guardian,info
+243,2014-06-19,A Tale Of Two Users,info
+244,2014-06-09,Experience the best of the Guardian World Cup coverage with our new mobile app,info
+245,2014-06-04,Engineering the iOS Guardian news app 3.0,info
+246,2014-06-04,Guardian feedback panel,info
+247,2014-05-29,Git 2.0 released - defaults to 'better',info
+248,2014-05-29,Improving the beta commenting experience,info
+249,2014-05-28,Exciting changes for the Guardian app are just around the corner,info
+250,2014-05-28,Changing the Guardian's pairing test,info
+251,2014-05-23,"Anyone can broadcast their opinion to the world – now, over to you …",info
+252,2014-05-13,Improving Sass code quality on theguardian.com,info
+253,2014-04-11,How the Guardian uses GitHub to audit GitHub,info
+254,2014-04-09,New mix of stories on mobile homepage,info
+255,2014-04-04,Shortening the goalposts,info
+256,2014-04-02,HackForLiving: A weekend of calm collective thinking with AgeUK,info
+257,2014-04-02,Coming of a new age - the younger older generation,info
+258,2014-03-25,"Monitoring, alerting and starting from scratch",info
+259,2014-03-20,"Inside the Guardian’s CMS: meet Scribe, an extensible rich text editor",info
+260,2014-03-18,Robustium - improving robustness in automation testing,info
+261,2014-03-17,Articles don't write themselves... or do they?,info
+262,2014-03-14,Guardian digital journalism scheme – a day in the life,info
+263,2014-02-25,Introducing wraith-donk,info
+264,2014-02-18,How the Guardian successfully moved domain to www.theguardian.com,info
+265,2014-02-15,London DevOps meetup held at the Guardian,info
+266,2014-02-14,Encrypting sensitive data in Puppet,info
+267,2014-02-13,"A Guardian trainee considers cortados, the pace of digital change and a promise of diverse voices",info
+268,2014-02-11,"Removed: Top 10 hotels, hostels and B&Bs in Perth",info
+269,2014-02-07,QA testing for the Guardian's Content API,info
+270,2014-01-17,Guardian Hack Day January 2014 — live blog,info
+271,2015-12-30,How to add a form to a Play application,info
+272,2015-12-23,Guardian and Observer style guide: J,info
+273,2015-12-21,Guardian Labs: our New Year resolutions for 2016,info
+274,2015-12-18,Guardian and Observer style guide: Z,info
+275,2015-12-11,Three ways brands can show their human side,info
+276,2015-12-11,Announcing the Guardian Digital Fellowship,info
+277,2015-12-04,The girls changing the world,info
+278,2015-11-20,Guardian and Observer style guide: I,info
+279,2015-11-18,Guardian Hack Day November 2015 - liveblog,info
+280,2015-11-08,As it happened:  MozFest 2015,info
+281,2015-11-06,The ongoing power of print supplements,info
+282,2015-11-04,Building an offline page for theguardian.com,info
+283,2015-11-02,The software testing identity crisis,info
+284,2015-10-30,Telling it like it is: the power of sponsored roundtables,info
+285,2015-10-23,"Cops, cartels and a content package",info
+286,2015-10-23,Guardian and Observer style guide: Y,info
+287,2015-10-19,Harnessing the power of the crowd,info
+288,2015-10-15,Guardian and Observer style guide: G,info
+289,2015-10-09,Bringing warmth to Sweden with paper,info
+290,2015-10-02,Telling a bleak story beautifully,info
+291,2015-10-02,The cat who came to dinner,info
+292,2015-09-25,The evolution of branded content,info
+293,2015-09-22,Conference report: Scala World 2015,info
+294,2015-09-22,Making theguardian.com work best for you,info
+295,2015-09-21,Interiors design: Lexus leather gets a makeover,info
+296,2015-09-10,Guardian Labs’ branded content – the best of summer 2015,info
+297,2015-09-08,Guardian Labs: creating unstoppable stories,info
+298,2015-09-03,Guardian and Observer style guide: X,info
+299,2015-08-27,How I went from a tester to a developer role,info
+300,2015-08-13,Guardian and Observer style guide: Q,info
+301,2015-08-12,"Open sourcing Grid, the Guardian’s new image management service",info
+302,2015-07-31,Device wall of awesome: how Lego helped our digital development,info
+303,2015-07-27,The User Experience of Creative Sprints,info
+304,2015-07-17,Hack day report: Using Amazon Machine Learning to predict trolling,info
+305,2015-06-30,Announcing the Guardian's digital networking event,info
+306,2015-06-10,Conference report: Scala Days Amsterdam 2015,info
+307,2015-05-29,Maintaining an open source project at the Guardian,info
+308,2015-05-15,Shadows on the wall: the Easter Rising and its legacy,info
+309,2015-05-01,Designing in the dark: How we created the Guardian App for Apple Watch,info
+310,2015-04-28,Extra! Extra! Rethinking the Guardian Breaking News Experience,info
+311,2015-04-08,Clever Compilers,info
+312,2015-03-30,The best way to learn tech is to teach it,info
+313,2015-03-26,Upgrading Elasticsearch: Content API’s dual stack strategy,info
+314,2015-03-11,Removed article,info
+315,2015-03-06,Android Subtle Prompt library,info
+316,2015-02-27,Guardian Hack Day February 2015 – liveblog,info
+317,2015-02-19,Fullstack 2014 - conference report,info
+318,2015-02-17,Compile-to-JavaScript languages,info
+319,2015-02-10,What to listen to next? jq to the rescue!,info
+320,2015-02-09,Building great products through anarchy,info
+321,2015-02-06,How we reimagined search for the Guardian app in one day,info
+322,2015-02-06,All the news that fits to print,info
+323,2015-02-03,Prout: is your pull request out?,info
+324,2015-01-28,Contact the Guardian letters desk,info
+325,2015-01-27,Five months in software development at the Guardian - what we learned,info
+326,2015-01-27,Why learn about algorithms?,info
+327,2015-01-20,How does the Guardian recruit developers?,info
+328,2015-01-13,Hour(s) of Code – inspiring the next generation,info
+329,2015-01-05,"Delivering Continuous Delivery, continuously",info
+330,2017-01-02,Removed: article,info
+331,2016-12-24,"Scanamo: simpler, safer DynamoDB access for Scala",info
+332,2016-12-23,Multiple DNS: synchronising Dyn to AWS Route 53,info
+333,2016-12-22,Implicits and type classes in Scala,info
+334,2016-12-21,Creating a culture of learning at the Guardian,info
+335,2016-12-20,Testing in Production: rethinking the conventional deployment pipeline,info
+336,2016-12-19,Introducing the Guardian Digital’s Diversity & Inclusion group,info
+337,2016-12-18,What we learnt from our mistakes in 2016,info
+338,2016-12-17,The Assumptions Buffet,info
+339,2016-12-16,Real-world software security lessons,info
+340,2016-12-15,Levelling up our client side developer experience,info
+341,2016-12-14,"Mirrors, lights, sawdust, lasers",info
+342,2016-12-13,What we’ve learnt from Startup Culture,info
+343,2016-12-12,Stepping into a new world: What we have learnt from creating The Guardian VR,info
+344,2016-12-11,“Show me the money!”,info
+345,2016-12-10,Code Mesh 2016,info
+346,2016-12-09,Adventures with Echo,info
+347,2016-12-08,Guardian Digital Fellowship 2017,info
+348,2016-12-07,The Digital Fellows: A New Hope,info
+349,2016-12-06,How to publish an Android library: a mysterious conversation,info
+350,2016-12-05,Testing in Production: How we combined tests with monitoring,info
+351,2016-12-04,Perfect software: the enemy of rapid deployment?,info
+352,2016-12-03,The Guardian coding workshop,info
+353,2016-12-02,The art of the design sprint,info
+354,2016-12-01,Win a box of Brexit Crackers,info
+355,2016-12-01,Guardian Brexit crackers prize draw terms and conditions,info
+356,2016-12-01,Discover new compression innovations Brotli and Zstandard,info
+357,2016-12-01,Guardian Developer Blog Advent,info
+358,2016-11-29,The Guardian has moved to https 🔒,info
+359,2016-11-11,What did you think about our live election results alert?,info
+360,2016-10-20,Ada Lovelace Day 2016,info
+361,2016-08-31,About the Guardian Bertha documentary partnership,info
+362,2016-08-19,How we made the RioRun progressive web app,info
+363,2016-08-09,Is technology at odds with creativity?,info
+364,2016-07-06,Pulling back the curtain: building the Guardian's sous chef bot,info
+365,2016-07-01,Git Merge 2016,info
+366,2016-06-24,Coming in from the cold: Routes to becoming a software engineer,info
+367,2016-06-10,Guardian Hack Day June 2016  - as it happened,info
+368,2016-06-01,The web we want hack day,info
+369,2016-05-26,Enabling developer migration!,info
+370,2016-05-23,Rediscovering Australian film,info
+371,2016-04-21,Quality Assured Cinematics,info
+372,2016-04-11,The Guardian Digital Fellowship: six months in,info
+373,2016-04-08,Will self-aware AI ever be a laughing matter?,info
+374,2016-04-08,"Building Bonobo, the Guardian's open source API key management tool",info
+375,2016-03-24,Showing some real love for Netflix,info
+376,2016-03-21,Data-Driven Quality,info
+377,2016-03-08,In search of surprises in marketing,info
+378,2016-03-03,The decline of print does not mean the death of publishing,info
+379,2016-02-26,How long-form articles could transform branded content,info
+380,2016-02-16,Facial coding technology: when looks can’t be deceiving …,info
+381,2016-02-09,Testing in the right places,info
+382,2016-02-08,The power of empathy in content marketing,info
+383,2016-02-05,It's All About the Team,info
+384,2016-02-03,Virtual realities still need substance,info
+385,2016-01-25,Be agile in being agile,info
+386,2016-01-20,The Guardian's new pairing exercises,info
+387,2016-01-14,The power of the image,info
+388,2017-11-29,Guardian Hack Day November 2017!,info
+389,2017-10-12,Freelance contributors: how to offer us a contribution,info
+390,2017-10-12,Terms and conditions for the supply of contributions to Guardian News & Media,info
+391,2017-09-18,Event cancelled,info
+392,2017-09-04,How not to break the Guardian website | Developer blog,info
+393,2017-08-09,Development of the live blog at the Guardian | Developer blog,info
+394,2017-06-26,Championing Accessibility at the Guardian,info
+395,2017-06-21,Lesbians Who Tech: How do we improve diversity?,info
+396,2017-05-25,How we integrated off-platform at the Guardian,info
+397,2017-05-15,How our userhelp team became more digitally focused,info
+398,2017-03-06,Empowering our editorial teams to impact page performance,info
+399,2017-02-14,Exploding watermelons and watching puddles grow: Facebook Live's erratic spectrum,info
+400,2017-01-24,Removed: article,info
+401,2017-01-23,Removed: article,info
+402,2017-01-16,The new retirement: sign up for the latest updates,info
+403,2017-01-13,Removed: article,info
+404,2018-12-24,Year in Review credits,info
+405,2018-12-21,Year in review: podcast discovery gamification,info
+406,2018-12-13,The training wheels are off: taking an Action to release,info
+407,2018-11-30,"Bye bye Mongo, Hello Postgres | Digital blog",info
+408,2018-11-29,Fake it before you make it: prototyping voice apps through roleplay,info
+409,2018-11-28,Guardian Digital Hack Day - November 2018,info
+410,2018-11-22,Getting up to speed with Google Actions,info
+411,2018-11-16,A beginner’s guide to designing for digital assistants,info
+412,2018-11-14,Additional terms and conditions for dramatisation and documentary rights,info
+413,2018-11-06,Hello computer: introducing the Guardian Voice Lab,info
+414,2018-10-22,How the Guardian co-designs with readers to improve our journalism | Digital blog,info
+415,2018-09-28,Using Scala string interpolation to protect logged data,info
+416,2018-06-01,Win a signed David Squires print,info
+417,2018-05-18,Why the Guardian is using encrypted EC2 root volumes on AWS,info
+418,2018-05-02,The Digital Fellowship is your foot in the door to the future of news,info
+419,2018-05-01,Our Digital Fellows share their experiences of the scheme,info
+420,2018-05-01,Guardian Digital Fellowship 2018: apply now,info
+421,2018-04-24,Guardian Digital Hackday - April 2018,info
+422,2018-03-31,Win an exclusive Anthony Burrill poster,info
+423,2018-03-26,Removed: article,info
+424,2018-03-19,How to tackle uncertainty with design,info
+425,2018-02-12,About 'the Upside' - a Guardian series,info
+426,2018-01-31,First-timer's guide to Guardian Hack Days,info
+427,2019-12-26,How the Guardian’s engineering team supports the 24 hour news cycle,info
+428,2019-12-24,Championing the reader,info
+429,2019-12-22,Async Failure handling in Typescript,info
+430,2019-12-20,Securing and centrally monitoring accounts in Amazon Web Services,info
+431,2019-12-18,Shrinking the download size of the Guardian’s Live app on Android,info
+432,2019-12-08,Migrating the Guardian website to React,info
+433,2019-12-06,Software quality in a world of microservices and continuous deployment,info
+434,2019-12-04,"The Tools Game, building empathy with our journalists",info
+435,2019-12-02,Faster PostgreSQL connection recovery,info
+436,2019-11-18,Sign in FAQs,info
+437,2019-10-25,Has Mary Wollstonecraft's CPU spiked?,info
+438,2019-09-26,Terms and Conditions for Guardian Masterclasses,info
+439,2019-07-29,Revisiting the rendering tier part 2: migrating AMP,info
+440,2019-05-10,Life in the Guardian's Digital department,info
+441,2019-05-09,Structured content: benefits for creating and publishing articles,info
+442,2019-05-07,First days in the Guardian's Digital department,info
+443,2019-05-01,Guardian Digital Fellowship 2019: apply now,info
+444,2019-04-26,Applying to the Guardian's Digital department,info
+445,2019-04-17,Being part of The Guardian's Digital Fellowship,info
+446,2019-04-12,Speaking to machines brings opportunities and challenges,info
+447,2019-04-07,Harness web development skills to create better desktop applications,info
+448,2019-04-04,How we automated audio news bulletins,info
+449,2019-04-04,Revisiting the rendering tier,info
+450,2019-03-25,Using data to tune a generated content experience,info
+451,2019-03-14,Designing a programmatic news briefing,info
+452,2019-03-06,"Guardian news to start your day, adapted for Google Assistant",info
+453,2019-03-01,Creating rich audio for voice-first experiences,info
+454,2019-02-22,Continuous quality assessment worthwhile in voice app development,info
+455,2019-02-14,How the Guardian Voice Lab created a sonic identity,info
+456,2019-02-07,Exploring your ideas: why prototyping is so important,info
+457,2019-01-31,"Hey Google, help me use Cloud Functions",info
+458,2019-01-29,Code readability matters,info
+459,2019-01-25,Balancing quality and performance: audio advice for voice apps,info
+460,2019-01-24,Leaving Scribe,info
+461,2019-01-21,Conversation data offers trove of insights despite challenges,info
+462,2019-01-11,Creating a user interface with sound design,info
+463,2020-12-23,Guardian and Observer style guide: O,info
+464,2020-12-22,Guardian and Observer style guide: H,info
+465,2020-12-21,The Guardian in 2020,info
+466,2020-11-27,Guardian Software Engineering Fellowship 2021: apply now,info
+467,2020-08-11,Welcome to the dark side: deploying ‘dark mode’ on the Guardian live app,info
+468,2020-06-12,The Guardian’s experience implementing Sign in with Apple on Android,info
+469,2020-02-04,Taming data transfer costs with Elasticsearch,info
+470,2020-01-29,Guardian Digital Hack Day - January 2020,info
+471,2021-11-29,A Day in the Life: Anna Beddow,info
+472,2021-11-26,Guardian Software Engineering Fellowship 2022: apply now,info
+473,2021-11-25,Talking sense: using machine learning to understand quotes,info
+474,2021-10-29,A retrospective on a decade of innovations,info
+475,2021-10-19,Pondering some Scala performance questions,info
+476,2021-10-12,Cop26 Hack Day September 2021,info
+477,2021-10-08,Cookies on the Guardian website,info
+478,2021-10-07,A Day in the Life: Roberto Tyley,info
+479,2021-08-27,Terms & Conditions for the 2021 Guardian Saturday discount offer,info
+480,2021-08-04,Gift Digital Subscriptions – Terms and Conditions,info
+481,2021-08-04,Terms and Conditions Guardian & Observer Crossword Prize Draws,info
+482,2021-08-04,Gift Digital Subscriptions - terms and conditions,info
+483,2021-08-04,"Guardian and Observer voucher, subscription card and home delivery subscription services - terms and conditions",info
+484,2021-07-23,A Day in the Life: Amina Adewusi,info
+485,2021-06-25,A Day in the Life: Max Duval,info
+486,2021-05-21,Guardian and Observer style guide: D,info
+487,2021-05-20,Guardian and Observer style guide: T,info
+488,2021-05-17,Virtual Hack Day April 2021,info
+489,2021-05-14,A Day in the Life: Yusuf Faraji,info
+490,2021-05-04,Guardian and Observer style guide: S,info
+491,2021-04-30,Guardian and Observer style guide: V,info
+492,2021-04-30,Guardian and Observer style guide: R,info
+493,2021-04-30,Guardian and Observer style guide: P,info
+494,2021-04-30,Guardian and Observer style guide: L,info
+495,2021-04-30,Guardian and Observer style guide: F,info
+496,2021-04-30,Guardian and Observer style guide: K,info
+497,2021-04-30,Guardian and Observer style guide: E,info
+498,2021-04-30,Guardian and Observer style guide: C,info
+499,2021-04-30,Guardian and Observer style guide: B,info
+500,2021-04-23,Guardian and Observer style guide: U,info
+501,2021-04-16,A Day in the Life: Sophie Lambrakis,info
+502,2021-03-17,Guardian and Observer style guide: N,info
+503,2021-03-17,A Day in the Life: Jonathon Herbert,info
+504,2021-02-12,A Day in the Life: Rebecca Thompson,info
+505,2021-02-04,How technology is powering Covid-19 investigations,info
+506,2021-01-26,Virtual Hack Day November 2020 – Diversity and Inclusion Theme,info
+507,2021-01-21,Guardian and Observer style guide: M,info
+508,2021-01-19,How technology is powering election coverage,info
+509,2021-01-13,A Day in the Life: Mahesh Makani,info
+510,2021-01-12,How technology is powering environmental reporting,info
